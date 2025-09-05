@@ -8,7 +8,7 @@
 🔭 I’m currently working on Grow With Me - A platform for Startup Founders to find their perfect Co-Founders. <br>
 
 
-<h3> 🌐 Socials: </h3>
+<h2> 🌐 Socials: </h2>
 
 <p align="left">
 &nbsp; <a href="https://linkedin.com/in/namith-kp" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
