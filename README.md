@@ -1,4 +1,4 @@
-## Hi, I'm Namith 
+<h2> Hi, I'm Namith  </h2>
 
 🧠 Computer science student<br/>
 ✅ Interested in Designing UI/UX for websites<br/>
