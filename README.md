@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Namith  </h2>
+<h2> Hey there! I'm Namith. <img src="https://github.com/Namith-kp/Namith-kp/blob/main/Hi.gif?raw=true" width="25">  </h2>
 
 🧠 Computer science student<br/>
 ✅ Interested in Designing UI/UX for websites<br/>
