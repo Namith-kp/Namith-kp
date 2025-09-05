@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Namith. <img src="https://github.com/Namith-kp/Namith-kp/blob/main/Hi.gif?raw=true" width="25">  </h2>
 
-<img align="right" alt="GIF" src="https://github.com/Namith-kp/Namith-kp/blob/main/1.gif?raw=true" width="400"/>
+<img align="right" alt="GIF" src="https://github.com/Namith-kp/Namith-kp/blob/main/1.gif?raw=true" width="200"/>
 
 
 🧠 Computer science student<br/>
