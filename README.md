@@ -8,7 +8,7 @@
 🔭 I’m currently working on Grow With Me - A platform for Startup Founders to find their perfect Co-Founders. <br>
 
 
-## 🌐 Socials:
+<h3> 🌐 Socials: </h3>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/namithkp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/namith-kp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kpnamith@gmail.com) 
 
 # 💻 Tech Stack:
