@@ -1,11 +1,11 @@
 <h1>  <img src="https://github.com/Namith-kp/Namith-kp/blob/main/Hi.gif?raw=true" width="25"> Hey there! I'm Namith. </h1>
 
-<img align="right" alt="GIF" src="https://github.com/Namith-kp/Namith-kp/blob/main/1.gif?raw=true" width="400"/>
+<img align="right" alt="GIF" src="https://github.com/Namith-kp/Namith-kp/blob/main/1.gif?raw=true" width="500"/>
 
 
-🧠 Computer science student<br/>
-✅ Interested in Designing UI/UX for websites<br/>
-🔭 I’m currently working on Grow With Me - A platform for Startup Founders to find their perfect Co-Founders. <br>
+- 🧠 Computer science student<br/>
+- ✅ Interested in Designing UI/UX for websites<br/>
+- 🔭 I’m currently working on Grow With Me - A platform for Startup Founders to find their perfect Co-Founders. <br>
 
 ## ✅ My Portfolio
 Check out my work here👇</br>
