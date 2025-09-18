@@ -1,9 +1,10 @@
-<p align="center"><a href="https://namithkp.me"><img width="80%" alt="Hello, I'm Namith I do Code :)" src="./assets/gh-readme-header.png" /></a></p>
-<h1>  <img src="https://github.com/Namith-kp/Namith-kp/blob/main/Hi.gif?raw=true" width="25"> Hey there! I'm Namith. </h1>
+<p align="center"><a href="https://namithkp.me"><img width="80%" alt="Hello, I'm Namith I do Code :)" src="./Hey%20There%20(1).png" /></a></p>
+<!-- <h1>  <img src="https://github.com/Namith-kp/Namith-kp/blob/main/Hi.gif?raw=true" width="25"> Hey there! I'm Namith. </h1> -->
 
-<img align="right" alt="GIF" src="https://github.com/Namith-kp/Namith-kp/blob/main/1.gif?raw=true" width="500"/>
+<!--<img align="right" alt="GIF" src="https://github.com/Namith-kp/Namith-kp/blob/main/1.gif?raw=true" width="500"/>-->
+I'm a passionate Computer Science Student
 
-
+## 📜 About Me
 - 💼 Computer Science Student<br/>
 - 💖 I Love Designing UI/UX for Websites<br/>
 - 💻 I’m currently working on Grow With Me - A platform for Startup Founders to find their perfect Co-Founders. <br>
