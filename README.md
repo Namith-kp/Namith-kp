@@ -28,7 +28,7 @@ Check out my work here👇</br>
 [![](https://namithkp-stats-1.vercel.app/api/top-langs/?username=namith-kp&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/Namith-kp)
 
 ## 🏆 GitHub Trophies
-[![]([https://github-profile-trophy.vercel.app/?username=namith-kp&theme=merko&no-frame=false&no-bg=true&margin-w=4](https://github-profile-trophy-silk-tau.vercel.app/?username=Namith-kp&theme=algolia))](https://github.com/Namith-kp)
+[![](https://github-profile-trophy-silk-tau.vercel.app/?username=Namith-kp&theme=algolia)](https://github.com/Namith-kp)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=namith-kp&icon=0&color=0)](https://github.com/Namith-kp)
