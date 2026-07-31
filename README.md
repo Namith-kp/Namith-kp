@@ -1,8 +1,12 @@
-<p align="center"><a href="https://namithkp.me"><img width="80%" alt="Hello, I'm Namith I do Code :)" src="./Hey%20There%20(1).png" /></a></p>
-<!-- <h1>  <img src="https://github.com/Namith-kp/Namith-kp/blob/main/Hi.gif?raw=true" width="25"> Hey there! I'm Namith. </h1> -->
-
-<!--<img align="right" alt="GIF" src="https://github.com/Namith-kp/Namith-kp/blob/main/1.gif?raw=true" width="500"/>-->
-I'm a passionate Computer Science Student
+<div align="center">
+  <a href="https://namithkp.me">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="light.svg">
+      <img alt="Namith's Animated Profile Banner" src="light.svg" width="100%">
+    </picture>
+  </a>
+</div>
 
 ## 📜 About Me
 - 💼 Computer Science Student<br/>
