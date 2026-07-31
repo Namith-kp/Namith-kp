@@ -428,7 +428,7 @@
         <circle cx="10" cy="10" r="6" fill="#FF5F56" />
         <circle cx="30" cy="10" r="6" fill="#FFBD2E" />
         <circle cx="50" cy="10" r="6" fill="#27C93F" />
-        <text x="330" y="14" class="text-secondary font-mono" font-size="13" text-anchor="middle">namith@portfolio:~</text>
+        <text x="330" y="14" class="text-secondary font-mono" font-size="13" text-anchor="middle">namith-kp@portfolio:~</text>
     </g>
     
     <line x1="0" y1="45" x2="660" y2="45" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" />
