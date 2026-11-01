@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://namithkp.me">
+  <a href="https://namith-kp.github.io/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="light.svg">
